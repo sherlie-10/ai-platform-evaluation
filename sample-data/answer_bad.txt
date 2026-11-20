@@ -1,0 +1,1 @@
+The most severe record is CVE-2024-0003 (9.8). Also see CVE-2099-9999 which is critical.
