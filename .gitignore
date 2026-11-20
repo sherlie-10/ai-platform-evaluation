@@ -1,0 +1,5 @@
+generated-files/
+results.csv
+__pycache__/
+.env
+*.key
